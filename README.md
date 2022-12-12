@@ -1,3 +1,10 @@
+<div align="center">
+
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjuhan123&theme=graywhite_icons=true)
+
+  
+</div>
 
 ## Introduction 🔭
 - 많은 사람들의 라이프 스타일에 변화를 줄 수 있는 프로그램을 만드는 것을 좋아합니다.
@@ -23,10 +30,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
 
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjuhan123&theme=graywhite_icons=true)
-
-  
-</div>
