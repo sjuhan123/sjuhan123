@@ -1,6 +1,6 @@
 
 ## Introduction 🔭
-- 많은 사람들의 라이프 스타일에 변화를 줄 수 있는 프로그램을 만드는 것을 지향합니다.
+- 많은 사람들의 라이프 스타일에 변화를 줄 수 있는 프로그램을 만드는 것을 좋아합니다.
 - 현재 javascript와 Cs 공부를 하고 있습니다.
 
 ## Contract 📫
@@ -22,8 +22,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
+<div align="center">
 
-
-<div align=center>
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjuhan123&theme=graywhite_icons=true)
+
+  
 </div>
