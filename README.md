@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=curiousgrids&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjuhan123&theme=swift_icons=true)
