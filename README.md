@@ -12,7 +12,7 @@
 
 ## Contract 📫
 - Git-hub: http://github.com/sjuhan123
-- Blog: https://sjuhan123.github.io/TIL/
+- Blog: https://sjuhan123.github.io/TIL/categories/
 - Instagram: https://instagram.com/sjuhan_/
 
 <!--
