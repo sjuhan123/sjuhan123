@@ -28,8 +28,8 @@
 
 꾸준한 성장을 위해 2개의 스터디에 참여하고 있습니다.
 
-- [알고리즘 스터디](https://github.com/Algorithm-Squad/Algorithm): 2023.01.02 ~ now
-- [기술학습 스터디](https://github.com/codesquad-fe-book-study/react-official-doc/tree/main): 2023.04.18 ~ now
+- [알고리즘 스터디](https://github.com/Algorithm-Squad/Algorithm): since 2023.01.02 ~ now
+- [기술학습 스터디](https://github.com/codesquad-fe-book-study/react-official-doc/tree/main): since 2023.04.18 ~ now
 
 <!--
 **sjuhan123/sjuhan123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
