@@ -5,7 +5,6 @@
 <a href=""><img src="https://camo.githubusercontent.com/494b0f23952229478851f520adfe3e140e629a5f0423e7c9d6c333ed88be65a0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3631444146423f7374796c653d666c61742d737175617265266c6f676f3d5265616374266c6f676f436f6c6f723d7768697465" alt="React Badge" data-canonical-src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=React&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href=""><img src="https://camo.githubusercontent.com/3098687a54cb06eabc2eccbb057c175024298507d9013d056e99e0d51fe9f2fa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5374796c65642d4442373039333f7374796c653d666c61742d737175617265266c6f676f3d7374796c65642d636f6d706f6e656e7473266c6f676f436f6c6f723d7768697465" alt="styled Badge" data-canonical-src="https://img.shields.io/badge/Styled-DB7093?style=flat-square&amp;logo=styled-components&amp;logoColor=white" style="max-width: 100%;"></a>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjuhan123&theme=graywhite_icons=true)
 
   
 </div>
@@ -30,17 +29,8 @@
 - [알고리즘 스터디](https://github.com/Algorithm-Squad/Algorithm): since 2023.01.02 ~ now
 - [기술학습 스터디](https://github.com/codesquad-fe-book-study/react-official-doc/tree/main): since 2023.04.18 ~ now
 
-<!--
-**sjuhan123/sjuhan123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Github 통계 📊
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjuhan123&theme=graywhite_icons=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjuhan123&layout=compact&hide=Ruby)](https://github.com/anuraghazra/github-readme-stats)
