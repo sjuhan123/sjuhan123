@@ -16,7 +16,7 @@
 
 ## Contract 📫
 - Git-hub: http://github.com/sjuhan123
-- Blog: https://sjuhan123.github.io/TIL/home
+- Blog: https://velog.io/@sjuhan123
 
 ## Education 📚
 
