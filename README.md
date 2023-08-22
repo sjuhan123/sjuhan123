@@ -15,7 +15,7 @@
 - 📖 현재 JavaScript, TypeScript, React, Styled-components를 학습하고 있습니다.
 
 ## Contract 📫
-- Git-hub: http://github.com/sjuhan123
+- Mail: sjuhan123@gmail.com
 - Blog: https://velog.io/@sjuhan123
 
 ## Education 📚
