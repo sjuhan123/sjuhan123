@@ -12,7 +12,7 @@
 
 ## Introduction 🔭
 - 🌱 많은 사람들의 라이프 스타일에 변화를 줄 수 있는 프로그램을 만드는 개발자가 되는 것이 꿈입니다.
-- 🛠️ JavaScript, TypeScript, React, Styled-components를 다루는 개발자입니다.
+- 🛠️ JavaScript, TypeScript, React를 다루는 개발자입니다.
 
 ## Contract 📫
 - Mail: sjuhan123@gmail.com
